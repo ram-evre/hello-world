@@ -2,4 +2,4 @@
 
 hello
 
-peactice test 2..
+peactice test 2
